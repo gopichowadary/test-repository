@@ -17,3 +17,4 @@ this new1
 this new2
 this new3
 thinsk;ld;s
+git fetch
